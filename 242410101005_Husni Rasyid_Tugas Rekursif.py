@@ -27,7 +27,7 @@ for _ in range(n):
     label = input("Label: ")
     data.append((id, parent, label))
 
-print("\nStruktur Menu:")
+print("\nDaftar Menu:")
 cetak_menu(buat_menu(data))
 
 # Latihan 2
