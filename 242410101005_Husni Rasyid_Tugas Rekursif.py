@@ -1,4 +1,4 @@
-# # Latihan 1 
+# Latihan 1 
 print("\n====LATIHAN NO.1====")
 def buat_menu(data):
     menu = {}
